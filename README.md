@@ -9,8 +9,8 @@
 
 During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional performance:
 
-- **Lives Saved**: Prevented potential loss of 40+ lives through early detection & warnings issue
-- **Economic Impact**: Mitigated $9.5 million in disaster damages
+- **Lives Saved**: Prevented potential loss of 20+ lives through early detection & warnings issue
+- **Economic Impact**: Mitigated $3.5 million in disaster damages
 - **Coverage**: Protected 8 prefectures across North Japan
 - **Response Time**: Achieved sub-30-second detection latency
 - **Scale**: Successfully deployed across 5 coastal cities
